@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111413">
+  <meta name="description" content="A visual library of World of Warcraft weapon illusions. Explore 90 effects and 271 pictures by colour, effect, and source.">
+  <title>Afterglow — WoW Weapon Illusions</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="data.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#collection">Skip to collection</a>
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="Afterglow home"><img src="icon.svg" width="34" height="34" alt=""><span>AFTERGLOW<small>A WORLD OF WARCRAFT VISUAL LIBRARY</small></span></a>
+    <nav aria-label="Main navigation"><a href="#collection" class="nav-current">The collection</a><button id="saved-nav" type="button">♡ <span>Saved</span> <b id="saved-count">0</b></button><button id="about-button" type="button">About & sources <span aria-hidden="true">↗</span></button></nav>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="page-title">
+      <div class="hero-copy"><p class="eyebrow"><span class="tiny-star">✦</span> THE FINISHING TOUCH</p><h1 id="page-title">A little magic.<br>A different <em>weapon.</em></h1><p class="intro">Find the glow that brings your transmog together.<br>Browse weapon illusions by colour, effect, and feel.</p><div class="hero-stats"><span><strong id="total-stat">90</strong> illusions</span><i></i><span><strong id="picture-stat">271</strong> pictures</span><i></i><span class="offline"><b></b> Available offline</span></div></div>
+      <div class="hero-art" aria-label="Featured weapon illusion previews">
+        <button class="hero-preview preview-one" data-open="mongoose" type="button"><img src="assets/images/mongoose.webp" alt="Mongoose: cyan lightning around a sword"><span>01 / MONGOOSE <b>↗</b></span></button>
+        <button class="hero-preview preview-two" data-open="holy-fire" type="button"><img src="assets/images/holy-fire.webp" alt="Holy Fire: golden weapon glow"><span>02 / HOLY FIRE <b>↗</b></span></button>
+        <span class="art-star" aria-hidden="true">✧</span>
+      </div>
+    </section>
+
+    <section id="collection" class="collection" aria-label="Weapon illusion collection">
+      <div class="collection-top"><div><p class="eyebrow">FIND YOUR NEXT LOOK</p><h2>The collection <span id="collection-total">90</span></h2></div><p class="collection-hint">Real screenshots. A closer look at every effect.</p><button id="toggle-filters" type="button" aria-expanded="false" aria-controls="filters">☷ Filters</button></div>
+      <div class="workspace">
+        <aside id="filters" class="filters" aria-label="Filter collection">
+          <div class="filter-heading"><h3>Refine your search</h3><button id="reset" class="text-button" type="button">Reset</button></div>
+          <label class="small-label" for="tag-search">FIND A TAG</label><div class="tag-search-wrap"><span aria-hidden="true">⌕</span><input id="tag-search" type="search" placeholder="e.g. gold, lightning" autocomplete="off"></div>
+          <fieldset class="match-mode"><legend>Combine selected tags</legend><label><input type="radio" name="match" value="all" checked> All tags</label><label><input type="radio" name="match" value="any"> Any tag</label></fieldset>
+          <section class="filter-group"><h4>COLOUR</h4><div id="colour-tags" class="colour-tags"></div></section>
+          <section class="filter-group"><h4>EFFECT</h4><div id="effect-tags" class="effect-tags"></div></section>
+          <section class="filter-group"><h4>VISUAL STRENGTH</h4><div id="strength-tags" class="effect-tags"></div><p class="filter-note">A visual guide, not an in-game rating.</p></section>
+          <div class="filter-group"><label class="small-label" for="source-filter">HOW TO GET IT</label><select id="source-filter"><option value="">Every source</option></select></div>
+          <label class="saved-filter"><input id="saved-only" type="checkbox"> Only my saved illusions <span aria-hidden="true">♡</span></label>
+          <p class="sidebar-note">Some effects are class-specific, seasonal, or retired. Open an illusion for its source and restrictions.</p>
+        </aside>
+
+        <div class="results-area">
+          <div class="toolbar"><div class="search-wrap"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.6"></circle><path d="m16 16 4.5 4.5"></path></svg><label class="sr-only" for="search">Search names, tags, or acquisition sources</label><input id="search" type="search" placeholder="Search illusions, tags, or sources…" autocomplete="off"><kbd>/</kbd></div><label class="sort-label" for="sort">Sort by<select id="sort"><option value="name">Name A–Z</option><option value="name-desc">Name Z–A</option><option value="colour">Colour tag</option><option value="effect">Effect tag</option><option value="strength">Boldest first</option><option value="source">Acquisition source</option></select></label></div>
+          <div class="results-meta"><p id="result-count" role="status" aria-live="polite"></p><span>Click a picture to explore</span></div>
+          <div id="active-filters" class="active-filters" aria-label="Active filters"></div>
+          <div id="gallery" class="gallery"></div>
+          <div id="empty" class="empty" hidden><span aria-hidden="true">✧</span><h3>No matching illusions</h3><p>Try fewer tags, switch to “Any tag”, or clear your search.</p><button id="empty-reset" type="button">Clear filters</button></div>
+          <p class="collection-end">✦ <span>Every weapon tells a story. Make yours glow.</span> ✦</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="legacy-section" aria-labelledby="legacy-heading"><details id="legacy-details"><summary><span><span class="eyebrow">LOOKING FOR AN OLD ENCHANT?</span><span id="legacy-heading">Legacy recipe index <small id="legacy-count"></small></span></span><span class="expand-sign" aria-hidden="true">+</span></summary><div class="legacy-body"><p>Older stat-enchant names, as listed in Warcraft Wiki’s <a href="https://warcraft.wiki.gg/wiki/Weapon_glow" target="_blank" rel="noopener noreferrer">Weapon glow chart ↗</a>. This text reference includes shared colours and two-handed variants; it is not a separate screenshot gallery. Recipe names and effects can differ between Retail and Classic.</p><label for="legacy-search" class="sr-only">Search legacy recipes by name or glow</label><input type="search" id="legacy-search" placeholder="Search older recipes or colours, e.g. Hurricane or yellow…"><div class="legacy-table-wrap"><table><thead><tr><th scope="col">Enchant name</th><th scope="col">Documented glow</th><th scope="col">Weapon</th></tr></thead><tbody id="legacy-rows"></tbody></table></div><p id="legacy-status" role="status"></p></div></details></section>
+  </main>
+
+  <footer><a class="footer-brand" href="./">✦ AFTERGLOW</a><p>Made for the love of transmog.<br><span>Game imagery © Blizzard Entertainment. Sources credited on every picture.</span></p><button id="footer-about" type="button">Coverage & credits ↗</button></footer>
+
+  <dialog id="viewer" aria-labelledby="viewer-title"><div class="viewer-shell"><div class="viewer-header"><p class="eyebrow">THE COLLECTION / <span id="viewer-category"></span></p><button class="icon-button close-dialog" aria-label="Close image viewer" type="button">×</button></div><div class="viewer-layout"><div class="viewer-media"><div class="main-image-wrap"><img id="viewer-image" alt=""><button id="previous-image" class="image-arrow previous" aria-label="Previous picture" type="button">‹</button><button id="next-image" class="image-arrow next" aria-label="Next picture" type="button">›</button><span id="image-counter" class="image-counter"></span></div><div id="image-thumbnails" class="image-thumbnails"></div><p id="image-caption"></p><p class="image-credit"><span id="image-credit"></span> · <a id="image-source" target="_blank" rel="noopener noreferrer">View source ↗</a></p></div><div class="viewer-info"><h2 id="viewer-title"></h2><p id="viewer-appearance" class="viewer-appearance"></p><div id="viewer-tags" class="card-tags"></div><div class="acquisition"><h3>HOW TO GET IT</h3><p id="viewer-acquisition"></p><span id="viewer-availability" class="availability"></span><p id="viewer-note"></p><a id="viewer-source" class="source-link" target="_blank" rel="noopener noreferrer">Full acquisition details ↗</a></div><button id="viewer-save" class="save-large" type="button"></button><p class="viewer-note">Use ← → to browse pictures. Esc to close.<br>Preview frames may show older game versions.</p></div></div></div></dialog>
+  <dialog id="about" aria-labelledby="about-title"><div class="about-content"><button class="icon-button close-dialog" aria-label="Close about and sources" type="button">×</button><p class="eyebrow">ABOUT THIS COLLECTION</p><h2 id="about-title">The details behind the glow.</h2><h3>Coverage</h3><p id="scope-copy"></p><p>The main gallery includes subtle coatings and recolours for comparison. It excludes “Hide Weapon Enchant”. A legacy recipe index preserves older names without assuming that similar colours mean identical effects.</p><h3>Pictures & tags</h3><p id="image-note"></p><p>Images are stored locally. Source links open the original wiki file page or the exact video timestamp. No recoloured mock-ups or duplicate crops are counted as extra pictures.</p><h3>Sources & credits</h3><ul><li><a href="https://warcraft.wiki.gg/wiki/Illusion" target="_blank" rel="noopener noreferrer">Warcraft Wiki — Illusion</a>: catalogue, acquisition information, and reference screenshots.</li><li><a href="https://warcraft.wiki.gg/wiki/Weapon_glow" target="_blank" rel="noopener noreferrer">Warcraft Wiki — Weapon glow</a>: historical recipe names and descriptions.</li><li>Video creators are credited below each frame. Open an illusion to visit its original previews.</li></ul><p>Warcraft Wiki text is adapted under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a>. Game imagery belongs to Blizzard Entertainment. This is an unofficial, personal-use fan reference.</p><p id="checked-copy" class="checked-copy"></p><p>Saved illusions stay in this browser. Filter selections are stored in the URL so you can bookmark a view.</p></div></dialog>
+  <noscript><div class="noscript">Enable JavaScript to use the searchable gallery. The reference pictures are available in the assets/images folder.</div></noscript>
+</body>
+</html>

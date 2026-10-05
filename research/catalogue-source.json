@@ -1,0 +1,1615 @@
+{
+  "checked": "2026-09-29",
+  "source": "https://warcraft.wiki.gg/wiki/Illusion",
+  "entries": [
+    {
+      "id": "agility",
+      "name": "Agility",
+      "category": "Default",
+      "acquisition": "Unlocked by default",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Default",
+      "images": [
+        {
+          "src": "assets/images/agility.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Agility.jpg?ae0c2e",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Agility.jpg",
+          "caption": "Agility \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "beastslayer",
+      "name": "Beastslayer",
+      "category": "Default",
+      "acquisition": "Unlocked by default",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Default",
+      "images": [
+        {
+          "src": "assets/images/beastslayer.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Beastslayer.jpg?165864",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Beastslayer.jpg",
+          "caption": "Beastslayer \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "crusader",
+      "name": "Crusader",
+      "category": "Default",
+      "acquisition": "Unlocked by default",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Default",
+      "images": [
+        {
+          "src": "assets/images/crusader.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Crusader.jpg?23b800",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Crusader.jpg",
+          "caption": "Crusader \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "lifestealing",
+      "name": "Lifestealing",
+      "category": "Default",
+      "acquisition": "Unlocked by default",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Default",
+      "images": [
+        {
+          "src": "assets/images/lifestealing.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Lifestealing.jpg?f5a183",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Lifestealing.jpg",
+          "caption": "Lifestealing \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "striking",
+      "name": "Striking",
+      "category": "Default",
+      "acquisition": "Unlocked by default",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Default",
+      "images": [
+        {
+          "src": "assets/images/striking.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Striking.jpg?512ac6",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Striking.jpg",
+          "caption": "Striking \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "titanguard",
+      "name": "Titanguard",
+      "category": "Default",
+      "acquisition": "Unlocked by default",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Default",
+      "images": [
+        {
+          "src": "assets/images/titanguard.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Titanguard.jpg?e54c6e",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Titanguard.jpg",
+          "caption": "Titanguard \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "coldlight",
+      "name": "Coldlight",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Azeroth  \u00b7 Classic Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/coldlight.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Coldlight.jpg?bfadb1",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Coldlight.jpg",
+          "caption": "Coldlight \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "fiery-weapon",
+      "name": "Fiery Weapon",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Azeroth  \u00b7 Classic Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/fiery-weapon.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Fiery_Weapon.jpg?9d86f8",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Fiery_Weapon.jpg",
+          "caption": "Fiery Weapon \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "unholy-weapon",
+      "name": "Unholy Weapon",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Azeroth  \u00b7 Classic Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/unholy-weapon.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Unholy_Weapon.jpg?5e4b88",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Unholy_Weapon.jpg",
+          "caption": "Unholy Weapon \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "battlemaster",
+      "name": "Battlemaster",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Outland  \u00b7 Outland Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/battlemaster.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Battlemaster.jpg?ce9cda",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Battlemaster.jpg",
+          "caption": "Battlemaster \u2014 reference screenshot",
+          "width": 910,
+          "height": 430,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "netherflame",
+      "name": "Netherflame",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Outland  \u00b7 Outland Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/netherflame.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Netherflame.jpg?133cb6",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Netherflame.jpg",
+          "caption": "Netherflame \u2014 reference screenshot",
+          "width": 904,
+          "height": 426,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "spellsurge",
+      "name": "Spellsurge",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Outland  \u00b7 Outland Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/spellsurge.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Spellsurge.jpg?a9d521",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Spellsurge.jpg",
+          "caption": "Spellsurge \u2014 reference screenshot",
+          "width": 910,
+          "height": 430,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "berserking",
+      "name": "Berserking",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Northrend  \u00b7 Northrend Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/berserking.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Berserking.jpg?f89537",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Berserking.jpg",
+          "caption": "Berserking \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "greater-spellpower",
+      "name": "Greater Spellpower",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Northrend  \u00b7 Northrend Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/greater-spellpower.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Greater_Spellpower.jpg?d4af56",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Greater_Spellpower.jpg",
+          "caption": "Greater Spellpower \u2014 reference screenshot",
+          "width": 865,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "icy-chill",
+      "name": "Icy Chill",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Northrend  \u00b7 Northrend Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/icy-chill.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Icy_Chill.jpg?9970d9",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Icy_Chill.jpg",
+          "caption": "Icy Chill \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "heartsong",
+      "name": "Heartsong",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Cataclysm  \u00b7 Cataclysm Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/heartsong.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Heartsong.jpg?5839ad",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Heartsong.jpg",
+          "caption": "Heartsong \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "light-of-the-earth-warder",
+      "name": "Light of the Earth-Warder",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Cataclysm  \u00b7 Cataclysm Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/light-of-the-earth-warder.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Light_of_the_Earth-Warder.jpg?178af6",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Light_of_the_Earth-Warder.jpg",
+          "caption": "Light of the Earth-Warder \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "windwalk",
+      "name": "Windwalk",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Cataclysm  \u00b7 Cataclysm Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/windwalk.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Windwalk.jpg?1659ef",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Windwalk.jpg",
+          "caption": "Windwalk \u2014 reference screenshot",
+          "width": 832,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "avalanche",
+      "name": "Avalanche",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Elemental Lords  \u00b7 Cataclysm Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/avalanche.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Avalanche.jpg?6f6553",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Avalanche.jpg",
+          "caption": "Avalanche \u2014 reference screenshot",
+          "width": 910,
+          "height": 430,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "elemental-slayer",
+      "name": "Elemental Slayer",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Elemental Lords  \u00b7 Cataclysm Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/elemental-slayer.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Elemental_Slayer.jpg?f1751d",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Elemental_Slayer.jpg",
+          "caption": "Elemental Slayer \u2014 reference screenshot",
+          "width": 910,
+          "height": 430,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "landslide",
+      "name": "Landslide",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Elemental Lords  \u00b7 Cataclysm Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/landslide.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Landslide.jpg?ee7d27",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Landslide.jpg",
+          "caption": "Landslide \u2014 reference screenshot",
+          "width": 910,
+          "height": 430,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "breath-of-yu-lon",
+      "name": "Breath of Yu'lon",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Pandaria  \u00b7 Pandaria Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/breath-of-yu-lon.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Breath_of_Yu%27lon.jpg?e8e859",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Breath_of_Yu%27lon.jpg",
+          "caption": "Breath of Yu'lon \u2014 reference screenshot",
+          "width": 904,
+          "height": 426,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "elemental-force",
+      "name": "Elemental Force",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Pandaria  \u00b7 Pandaria Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/elemental-force.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Elemental_Force.jpg?a4e4a6",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Elemental_Force.jpg",
+          "caption": "Elemental Force \u2014 reference screenshot",
+          "width": 910,
+          "height": 430,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "windsong",
+      "name": "Windsong",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Pandaria  \u00b7 Pandaria Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/windsong.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Windsong.jpg?cda53a",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Windsong.jpg",
+          "caption": "Windsong \u2014 reference screenshot",
+          "width": 910,
+          "height": 430,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "dancing-steel",
+      "name": "Dancing Steel",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Secrets of the Shado-Pan  \u00b7 Pandaria Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/dancing-steel.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Dancing_Steel.jpg?8ac0af",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Dancing_Steel.jpg",
+          "caption": "Dancing Steel \u2014 reference screenshot",
+          "width": 904,
+          "height": 426,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "river-s-song",
+      "name": "River's Song",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Secrets of the Shado-Pan  \u00b7 Pandaria Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/river-s-song.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_River%27s_Song.jpg?1f17c4",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_River%27s_Song.jpg",
+          "caption": "River's Song \u2014 reference screenshot",
+          "width": 951,
+          "height": 430,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "mark-of-the-frostwolf",
+      "name": "Mark of the Frostwolf",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Draenor  \u00b7 Draenor Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/mark-of-the-frostwolf.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Mark_of_the_Frostwolf.jpg?34003e",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Mark_of_the_Frostwolf.jpg",
+          "caption": "Mark of the Frostwolf \u2014 reference screenshot",
+          "width": 910,
+          "height": 430,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "mark-of-the-thunderlord",
+      "name": "Mark of the Thunderlord",
+      "category": "Crafting",
+      "acquisition": " Tome of Illusions: Draenor  \u00b7 Draenor Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/mark-of-the-thunderlord.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Mark_of_the_Thunderlord.jpg?a84001",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Mark_of_the_Thunderlord.jpg",
+          "caption": "Mark of the Thunderlord \u2014 reference screenshot",
+          "width": 951,
+          "height": 430,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "primal-air",
+      "name": "Primal Air",
+      "category": "Crafting",
+      "acquisition": " Illusion: Primal Air  \u00b7 Dragon Isles Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/primal-air.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Primal_Air.jpg?cb76f9",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Primal_Air.jpg",
+          "caption": "Primal Air \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "primal-earth",
+      "name": "Primal Earth",
+      "category": "Crafting",
+      "acquisition": " Illusion: Primal Earth  \u00b7 Dragon Isles Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/primal-earth.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Primal_Earth.jpg?a8913b",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Primal_Earth.jpg",
+          "caption": "Primal Earth \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "primal-fire",
+      "name": "Primal Fire",
+      "category": "Crafting",
+      "acquisition": " Illusion: Primal Fire  \u00b7 Dragon Isles Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/primal-fire.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Primal_Fire.jpg?d19e98",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Primal_Fire.jpg",
+          "caption": "Primal Fire \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "primal-frost",
+      "name": "Primal Frost",
+      "category": "Crafting",
+      "acquisition": " Illusion: Primal Frost  \u00b7 Dragon Isles Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/primal-frost.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Primal_Frost.jpg?fd925f",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Primal_Frost.jpg",
+          "caption": "Primal Frost \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "primal-mastery",
+      "name": "Primal Mastery",
+      "category": "Crafting",
+      "acquisition": " Illusion: Primal Mastery  \u00b7 Dragon Isles Enchanting",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion#Crafting",
+      "images": [
+        {
+          "src": "assets/images/primal-mastery.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Primal_Mastery.jpg?6c970c",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Primal_Mastery.jpg",
+          "caption": "Primal Mastery \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "mongoose",
+      "name": "Mongoose",
+      "category": "Drops",
+      "acquisition": "Moroes , Moroes \u00b7 Karazhan , Return to Karazhan",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Mongoose",
+      "images": [
+        {
+          "src": "assets/images/mongoose.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Mongoose.jpg?382a89",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Mongoose.jpg",
+          "caption": "Mongoose \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "soulfrost",
+      "name": "Soulfrost",
+      "category": "Drops",
+      "acquisition": "Terestian Illhoof \u00b7 Karazhan",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Soulfrost",
+      "images": [
+        {
+          "src": "assets/images/soulfrost.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Soulfrost.jpg?485346",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Soulfrost.jpg",
+          "caption": "Soulfrost \u2014 reference screenshot",
+          "width": 904,
+          "height": 426,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "sunfire",
+      "name": "Sunfire",
+      "category": "Drops",
+      "acquisition": "Shade of Aran , Shade of Medivh \u00b7 Karazhan, Return to Karazhan",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Sunfire",
+      "images": [
+        {
+          "src": "assets/images/sunfire.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Sunfire.jpg?2a127c",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Sunfire.jpg",
+          "caption": "Sunfire \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "blade-ward",
+      "name": "Blade Ward",
+      "category": "Drops",
+      "acquisition": "Freya , Hodir , Mimiron , Thorim \u00b7 Ulduar",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Blade_Ward",
+      "images": [
+        {
+          "src": "assets/images/blade-ward.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Blade_Ward.jpg?23e7da",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Blade_Ward.jpg",
+          "caption": "Blade Ward \u2014 reference screenshot",
+          "width": 910,
+          "height": 430,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "blood-draining",
+      "name": "Blood Draining",
+      "category": "Drops",
+      "acquisition": "Yogg-Saron \u00b7 Ulduar",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Blood_Draining",
+      "images": [
+        {
+          "src": "assets/images/blood-draining.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Blood_Draining.jpg?8a5719",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Blood_Draining.jpg",
+          "caption": "Blood Draining \u2014 reference screenshot",
+          "width": 899,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "power-torrent",
+      "name": "Power Torrent",
+      "category": "Drops",
+      "acquisition": "Nefarian's End \u00b7 Blackwing Descent",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Power_Torrent",
+      "images": [
+        {
+          "src": "assets/images/power-torrent-while-orange.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Power_Torrent_orange.jpg?d9cbb7",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Power_Torrent_orange.jpg",
+          "caption": "Power Torrent (while orange) \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        },
+        {
+          "src": "assets/images/power-torrent-while-purple.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Power_Torrent_purple.jpg?ac4dd7",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Power_Torrent_purple.jpg",
+          "caption": "Power Torrent (while purple) \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "colossus",
+      "name": "Colossus",
+      "category": "Drops",
+      "acquisition": "Will of the Emperor \u00b7 Mogu'shan Vaults",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Colossus",
+      "images": [
+        {
+          "src": "assets/images/colossus.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Colossus.jpg?911532",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Colossus.jpg",
+          "caption": "Colossus \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "jade-spirit",
+      "name": "Jade Spirit",
+      "category": "Drops",
+      "acquisition": "Sha of Fear \u00b7 Terrace of Endless Spring",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Jade_Spirit",
+      "images": [
+        {
+          "src": "assets/images/jade-spirit.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Jade_Spirit.jpg?f4749b",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Jade_Spirit.jpg",
+          "caption": "Jade Spirit \u2014 reference screenshot",
+          "width": 907,
+          "height": 428,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "mark-of-blackrock",
+      "name": "Mark of Blackrock",
+      "category": "Drops",
+      "acquisition": "Blackhand \u00b7 Blackrock Foundry",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Mark_of_Blackrock",
+      "images": [
+        {
+          "src": "assets/images/mark-of-blackrock.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Mark_of_Blackrock.jpg?319a67",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Mark_of_Blackrock.jpg",
+          "caption": "Mark of Blackrock \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "mark-of-shadowmoon",
+      "name": "Mark of Shadowmoon",
+      "category": "Drops",
+      "acquisition": "Ner'zhul \u00b7 Shadowmoon Burial Grounds",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Mark_of_Shadowmoon",
+      "images": [
+        {
+          "src": "assets/images/mark-of-shadowmoon.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Mark_of_Shadowmoon.jpg?8a7e64",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Mark_of_Shadowmoon.jpg",
+          "caption": "Mark of Shadowmoon \u2014 reference screenshot",
+          "width": 910,
+          "height": 430,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "mark-of-the-bleeding-hollow",
+      "name": "Mark of the Bleeding Hollow",
+      "category": "Drops",
+      "acquisition": "Kilrogg Deadeye \u00b7 Hellfire Citadel",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Mark_of_the_Bleeding_Hollow",
+      "images": [
+        {
+          "src": "assets/images/mark-of-the-bleeding-hollow.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Mark_of_the_Bleeding_Hollow.jpg?a3f488",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Mark_of_the_Bleeding_Hollow.jpg",
+          "caption": "Mark of the Bleeding Hollow \u2014 reference screenshot",
+          "width": 910,
+          "height": 430,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "mark-of-the-shattered-hand",
+      "name": "Mark of the Shattered Hand",
+      "category": "Drops",
+      "acquisition": "Kargath Bladefist \u00b7 Highmaul",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Mark_of_the_Shattered_Hand",
+      "images": [
+        {
+          "src": "assets/images/mark-of-the-shattered-hand.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Mark_of_the_Shattered_Hand.jpg?e04cee",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Mark_of_the_Shattered_Hand.jpg",
+          "caption": "Mark of the Shattered Hand \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "chronos",
+      "name": "Chronos",
+      "category": "Drops",
+      "acquisition": "Chronomatic Anomaly \u00b7 The Nighthold",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Chronos",
+      "images": [
+        {
+          "src": "assets/images/chronos.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Chronos.jpg?68a264",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Chronos.jpg",
+          "caption": "Chronos \u2014 reference screenshot",
+          "width": 861,
+          "height": 388,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "nightmare",
+      "name": "Nightmare",
+      "category": "Drops",
+      "acquisition": "Xavius \u00b7 The Emerald Nightmare",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Nightmare",
+      "images": [
+        {
+          "src": "assets/images/nightmare.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Nightmare.jpg?20e918",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Nightmare.jpg",
+          "caption": "Nightmare \u2014 reference screenshot",
+          "width": 861,
+          "height": 388,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "void-edge",
+      "name": "Void Edge",
+      "category": "Drops",
+      "acquisition": "Valeera's Corrupted Chest \u00b7 Vision of Stormwind",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Void_Edge",
+      "images": [
+        {
+          "src": "assets/images/void-edge.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Void_Edge.jpg?c4b73d",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Void_Edge.jpg",
+          "caption": "Void Edge \u2014 reference screenshot",
+          "width": 815,
+          "height": 384,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "executioner",
+      "name": "Executioner",
+      "category": "Reputation",
+      "acquisition": "The Consortium \u00b7 Revered",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Executioner",
+      "images": [
+        {
+          "src": "assets/images/executioner.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Executioner.jpg?34ea7a",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Executioner.jpg",
+          "caption": "Executioner \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "mending",
+      "name": "Mending",
+      "category": "Reputation",
+      "acquisition": "Guardians of Hyjal \u00b7 Revered",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Mending",
+      "images": [
+        {
+          "src": "assets/images/mending.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Mending.jpg?ca9019",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Mending.jpg",
+          "caption": "Mending \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "devoted-spirit",
+      "name": "Devoted Spirit",
+      "category": "Reputation",
+      "acquisition": "The Ascended \u00b7 Exalted",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Devoted_Spirit",
+      "images": [
+        {
+          "src": "assets/images/devoted-spirit.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Devoted_Spirit.jpg?71b18d",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Devoted_Spirit.jpg",
+          "caption": "Devoted Spirit \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "transcendent-soul",
+      "name": "Transcendent Soul",
+      "category": "Reputation",
+      "acquisition": "Kyrian Covenant \u00b7 Renown 36",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Transcendent_Soul",
+      "images": [
+        {
+          "src": "assets/images/transcendent-soul.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Transcendent_Soul.jpg?d65f18",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Transcendent_Soul.jpg",
+          "caption": "Transcendent Soul \u2014 reference screenshot",
+          "width": 815,
+          "height": 384,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "undying-spirit",
+      "name": "Undying Spirit",
+      "category": "Reputation",
+      "acquisition": "The Undying Army \u00b7 Exalted",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Undying_Spirit",
+      "images": [
+        {
+          "src": "assets/images/undying-spirit.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Undying_Spirit.jpg?15343f",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Undying_Spirit.jpg",
+          "caption": "Undying Spirit \u2014 reference screenshot",
+          "width": 815,
+          "height": 384,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "unbreakable-resolve",
+      "name": "Unbreakable Resolve",
+      "category": "Reputation",
+      "acquisition": "Necrolord Covenant \u00b7 Renown 36",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Unbreakable_Resolve",
+      "images": [
+        {
+          "src": "assets/images/unbreakable-resolve.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Unbreakable_Resolve.jpg?b07172",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Unbreakable_Resolve.jpg",
+          "caption": "Unbreakable Resolve \u2014 reference screenshot",
+          "width": 815,
+          "height": 384,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "hunt-s-favor",
+      "name": "Hunt's Favor",
+      "category": "Reputation",
+      "acquisition": "The Wild Hunt \u00b7 Exalted",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Hunt%27s_Favor",
+      "images": [
+        {
+          "src": "assets/images/hunt-s-favor.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Hunt%27s_Favor.jpg?7cc5c5",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Hunt%27s_Favor.jpg",
+          "caption": "Hunt's Favor \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "wild-soul",
+      "name": "Wild Soul",
+      "category": "Reputation",
+      "acquisition": "Night Fae Covenant \u00b7 Renown 36",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Wild_Soul",
+      "images": [
+        {
+          "src": "assets/images/wild-soul.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Wild_Soul.jpg?b50b2f",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Wild_Soul.jpg",
+          "caption": "Wild Soul \u2014 reference screenshot",
+          "width": 815,
+          "height": 384,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "sinsedge",
+      "name": "Sinsedge",
+      "category": "Reputation",
+      "acquisition": "Court of Harvesters \u00b7 Exalted",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Sinsedge",
+      "images": [
+        {
+          "src": "assets/images/sinsedge.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Sinsedge.jpg?79866c",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Sinsedge.jpg",
+          "caption": "Sinsedge \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "sinwrath",
+      "name": "Sinwrath",
+      "category": "Reputation",
+      "acquisition": "Venthyr Covenant \u00b7 Renown 36",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Sinwrath",
+      "images": [
+        {
+          "src": "assets/images/sinwrath.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Sinwrath.jpg?f634f2",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Sinwrath.jpg",
+          "caption": "Sinwrath \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "rune-of-razorice",
+      "name": "Rune of Razorice",
+      "category": "Class-specific",
+      "acquisition": "Death knight \u00b7 Drop: Icecrown Citadel - The Lich King",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Rune_of_Razorice",
+      "images": [
+        {
+          "src": "assets/images/rune-of-razorice.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Rune_of_Razorice.jpg?feda78",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Rune_of_Razorice.jpg",
+          "caption": "Rune of Razorice \u2014 reference screenshot",
+          "width": 698,
+          "height": 336,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "poisoned",
+      "name": "Poisoned",
+      "category": "Class-specific",
+      "acquisition": "Rogue \u00b7 Vendor: Griftah for 5,000 or 25,000 .",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Poisoned",
+      "images": [
+        {
+          "src": "assets/images/poisoned.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Poisoned.jpg?28a4a1",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Poisoned.jpg",
+          "caption": "Poisoned \u2014 reference screenshot",
+          "width": 698,
+          "height": 336,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "earthliving",
+      "name": "Earthliving",
+      "category": "Class-specific",
+      "acquisition": "Shaman \u00b7 Drop: Icecrown Citadel - Valithria Dreamwalker",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Earthliving",
+      "images": [
+        {
+          "src": "assets/images/earthliving.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Earthliving.jpg?46b6e4",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Earthliving.jpg",
+          "caption": "Earthliving \u2014 reference screenshot",
+          "width": 474,
+          "height": 314,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "flametongue",
+      "name": "Flametongue",
+      "category": "Class-specific",
+      "acquisition": "Shaman \u00b7 Drop: Molten Core - Ragnaros",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Flametongue",
+      "images": [
+        {
+          "src": "assets/images/flametongue.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Flametongue.jpg?3b09c1",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Flametongue.jpg",
+          "caption": "Flametongue \u2014 reference screenshot",
+          "width": 474,
+          "height": 314,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "frostbrand",
+      "name": "Frostbrand",
+      "category": "Class-specific",
+      "acquisition": "Shaman \u00b7 Drop: Serpentshrine Cavern - Hydross the Unstable , The Lurker Below",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Frostbrand",
+      "images": [
+        {
+          "src": "assets/images/frostbrand.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Frostbrand.jpg?5ab2f1",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Frostbrand.jpg",
+          "caption": "Frostbrand \u2014 reference screenshot",
+          "width": 474,
+          "height": 314,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "rockbiter",
+      "name": "Rockbiter",
+      "category": "Class-specific",
+      "acquisition": "Shaman \u00b7 Drop: Highmaul - Tectus",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Rockbiter",
+      "images": [
+        {
+          "src": "assets/images/rockbiter.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Rockbiter.jpg?860b79",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Rockbiter.jpg",
+          "caption": "Rockbiter \u2014 reference screenshot",
+          "width": 474,
+          "height": 314,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "windfury",
+      "name": "Windfury",
+      "category": "Class-specific",
+      "acquisition": "Shaman \u00b7 Drop: Throne of the Four Winds - Al'Akir",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Windfury",
+      "images": [
+        {
+          "src": "assets/images/windfury.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Windfury.jpg?a0b309",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Windfury.jpg",
+          "caption": "Windfury \u2014 reference screenshot",
+          "width": 474,
+          "height": 314,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "deathfrost",
+      "name": "Deathfrost",
+      "category": "Events and promotions",
+      "acquisition": "Holiday: Midsummer Fire Festival -  Satchel of Chilled Goods ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Deathfrost",
+      "images": [
+        {
+          "src": "assets/images/deathfrost.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Deathfrost.jpg?cc7baf",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Deathfrost.jpg",
+          "caption": "Deathfrost \u2014 reference screenshot",
+          "width": 835,
+          "height": 394,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "summer-sun-blossom",
+      "name": "Summer Sun Blossom",
+      "category": "Events and promotions",
+      "acquisition": "Holiday: Midsummer Fire Festival - Vendors for 250  Burning Blossom ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Summer_Sun_Blossom",
+      "images": []
+    },
+    {
+      "id": "flames-of-ragnaros",
+      "name": "Flames of Ragnaros",
+      "category": "Events and promotions",
+      "acquisition": "Holiday: Feast of Winter Veil -  Smokywood Pastures Special Gift  ,  Stolen Present ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Flames_of_Ragnaros",
+      "images": [
+        {
+          "src": "assets/images/flames-of-ragnaros.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Flames_of_Ragnaros.jpg?6b719c",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Flames_of_Ragnaros.jpg",
+          "caption": "Flames of Ragnaros \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "winter-s-grasp",
+      "name": "Winter's Grasp",
+      "category": "Events and promotions",
+      "acquisition": "Holiday: Feast of Winter Veil -  Smokywood Pastures Special Gift  ,  Stolen Present ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Winter%27s_Grasp",
+      "images": [
+        {
+          "src": "assets/images/winter-s-grasp.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Winter%27s_Grasp.jpg?c30eea",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Winter%27s_Grasp.jpg",
+          "caption": "Winter's Grasp \u2014 reference screenshot",
+          "width": 849,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "sha-corruption",
+      "name": "Sha Corruption",
+      "category": "Events and promotions",
+      "acquisition": "Event: Pandaria Remix -  Dread Wastes ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Sha_Corruption",
+      "images": [
+        {
+          "src": "assets/images/sha-corruption.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Sha_Corruption.jpg?72c306",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Sha_Corruption.jpg",
+          "caption": "Sha Corruption \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "felshatter",
+      "name": "Felshatter",
+      "category": "Events and promotions",
+      "acquisition": "Event: Legion Remix -  Val'Sharah ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Felshatter",
+      "images": [
+        {
+          "src": "assets/images/felshatter.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Felshatter.jpg?62d0a2",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Felshatter.jpg",
+          "caption": "Felshatter \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "stinging-sands",
+      "name": "Stinging Sands",
+      "category": "Events and promotions",
+      "acquisition": "Recruit A Friend ( patch 8.2.5 until patch 10.0.7 ); no longer obtainable",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Stinging_Sands",
+      "images": [
+        {
+          "src": "assets/images/stinging-sands.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Stinging_Sands.jpg?9984c2",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Stinging_Sands.jpg",
+          "caption": "Stinging Sands \u2014 reference screenshot",
+          "width": 587,
+          "height": 277,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "wraithchill",
+      "name": "Wraithchill",
+      "category": "Events and promotions",
+      "acquisition": "Shadowlands Collector's Edition (and, previously, Epic Edition )",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Wraithchill",
+      "images": [
+        {
+          "src": "assets/images/wraithchill.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Wraithchill.jpg?c678d4",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Wraithchill.jpg",
+          "caption": "Wraithchill \u2014 reference screenshot",
+          "width": 811,
+          "height": 382,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "glorious-tyranny",
+      "name": "Glorious Tyranny",
+      "category": "Player vs. Player",
+      "acquisition": "Vendors - Requires one of:  Duelist: Season 14  ,  Duelist: Season 15  ,  Hero of the Alliance: Grievous  /  Hero of the Horde: Grievous  ,  Hero of the Alliance: Prideful  /  Hero of the Horde: Prideful ",
+      "source": "https://warcraft.wiki.gg/wiki/Enchanter%27s_Illusion_-_Glorious_Tyranny",
+      "images": [
+        {
+          "src": "assets/images/glorious-tyranny.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Glorious_Tyranny.jpg?673297",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Glorious_Tyranny.jpg",
+          "caption": "Glorious Tyranny \u2014 reference screenshot",
+          "width": 615,
+          "height": 343,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "primal-victory",
+      "name": "Primal Victory",
+      "category": "Player vs. Player",
+      "acquisition": "Vendors - Requires one of:  Duelist: Warlords Season 1  ,  Duelist: Warlords Season 2  ,  Duelist: Warlords Season 3  ,  Hero of the Alliance: Primal  /  Hero of the Horde: Primal  ,  Hero of the Alliance: Wild  /  Hero of the Horde: Wild  ,  Hero of the Alliance: Warmongering  /  Hero of the Horde: Warmongering ",
+      "source": "https://warcraft.wiki.gg/wiki/Enchanter%27s_Illusion_-_Primal_Victory",
+      "images": [
+        {
+          "src": "assets/images/primal-victory.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Primal_Victory.jpg?c6c08c",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Primal_Victory.jpg",
+          "caption": "Primal Victory \u2014 reference screenshot",
+          "width": 615,
+          "height": 343,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "demonic-tyranny",
+      "name": "Demonic Tyranny",
+      "category": "Player vs. Player",
+      "acquisition": "Vendors - Requires one of:  Gladiator: Legion Season 3  ,  Gladiator: Legion Season 4  ,  Gladiator: Legion Season 5  ,  Gladiator: Legion Season 6  ,  Gladiator: Legion Season 7 ",
+      "source": "https://warcraft.wiki.gg/wiki/Enchanter%27s_Illusion_-_Demonic_Tyranny",
+      "images": [
+        {
+          "src": "assets/images/demonic-tyranny.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Demonic_Tyranny.jpg?118ab8",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Demonic_Tyranny.jpg",
+          "caption": "Demonic Tyranny \u2014 reference screenshot",
+          "width": 615,
+          "height": 343,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "dreadflame",
+      "name": "Dreadflame",
+      "category": "Player vs. Player",
+      "acquisition": " Duelist: Battle for Azeroth Season 1  ,  Duelist: Battle for Azeroth Season 2  ,  Duelist: Battle for Azeroth Season 3  ,  Duelist: Battle for Azeroth Season 4 ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Dreadflame",
+      "images": [
+        {
+          "src": "assets/images/dreadflame.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Dreadflame.jpg?e07d46",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Dreadflame.jpg",
+          "caption": "Dreadflame \u2014 reference screenshot",
+          "width": 615,
+          "height": 343,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "sinful-flame",
+      "name": "Sinful Flame",
+      "category": "Player vs. Player",
+      "acquisition": " Duelist: Shadowlands Season 1 ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Sinful_Flame",
+      "images": [
+        {
+          "src": "assets/images/sinful-flame.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Sinful_Flame.jpg?28c2c6",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Sinful_Flame.jpg",
+          "caption": "Sinful Flame \u2014 reference screenshot",
+          "width": 615,
+          "height": 343,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "unchained-fury",
+      "name": "Unchained Fury",
+      "category": "Player vs. Player",
+      "acquisition": " Duelist: Shadowlands Season 2 ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Unchained_Fury",
+      "images": [
+        {
+          "src": "assets/images/unchained-fury.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Unchained_Fury.jpg?818337",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Unchained_Fury.jpg",
+          "caption": "Unchained Fury \u2014 reference screenshot",
+          "width": 615,
+          "height": 343,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "cosmic-flow",
+      "name": "Cosmic Flow",
+      "category": "Player vs. Player",
+      "acquisition": " Duelist: Shadowlands Season 3 ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Cosmic_Flow",
+      "images": [
+        {
+          "src": "assets/images/cosmic-flow.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Cosmic_Flow.jpg?82a86b",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Cosmic_Flow.jpg",
+          "caption": "Cosmic Flow \u2014 reference screenshot",
+          "width": 615,
+          "height": 343,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "eternal-flux",
+      "name": "Eternal Flux",
+      "category": "Player vs. Player",
+      "acquisition": " Duelist: Shadowlands Season 4 ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Eternal_Flux",
+      "images": [
+        {
+          "src": "assets/images/eternal-flux.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Eternal_Flux.jpg?c024cf",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Eternal_Flux.jpg",
+          "caption": "Eternal Flux \u2014 reference screenshot",
+          "width": 615,
+          "height": 343,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "primal-storm",
+      "name": "Primal Storm",
+      "category": "Player vs. Player",
+      "acquisition": " Duelist: Dragonflight Season 1 ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Primal_Storm",
+      "images": [
+        {
+          "src": "assets/images/primal-storm.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Primal_Storm.jpg?af126f",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Primal_Storm.jpg",
+          "caption": "Primal Storm \u2014 reference screenshot",
+          "width": 615,
+          "height": 343,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "shadow-flame",
+      "name": "Shadow Flame",
+      "category": "Player vs. Player",
+      "acquisition": " Duelist: Dragonflight Season 2 ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Shadow_Flame",
+      "images": [
+        {
+          "src": "assets/images/shadow-flame.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Shadow_Flame.jpg?e1973f",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Shadow_Flame.jpg",
+          "caption": "Shadow Flame \u2014 reference screenshot",
+          "width": 615,
+          "height": 343,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "verdant-crush",
+      "name": "Verdant Crush",
+      "category": "Player vs. Player",
+      "acquisition": " Duelist: Dragonflight Season 3 ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Verdant_Crush",
+      "images": [
+        {
+          "src": "assets/images/verdant-crush.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Verdant_Crush.jpg?4377eb",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Verdant_Crush.jpg",
+          "caption": "Verdant Crush \u2014 reference screenshot",
+          "width": 615,
+          "height": 343,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "bronze-infinite",
+      "name": "Bronze Infinite",
+      "category": "Player vs. Player",
+      "acquisition": " Duelist: Dragonflight Season 4 ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Bronze_Infinite",
+      "images": [
+        {
+          "src": "assets/images/bronze-infinite.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Bronze_Infinite.png?42fef9",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Bronze_Infinite.png",
+          "caption": "Bronze Infinite \u2014 reference screenshot",
+          "width": 615,
+          "height": 343,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "holy-fire",
+      "name": "Holy Fire",
+      "category": "Player vs. Player",
+      "acquisition": " Rival II: The War Within Season 1 ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Holy_Fire",
+      "images": [
+        {
+          "src": "assets/images/holy-fire.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Holy_Fire_for_gallery.jpg?285df4",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Holy_Fire_for_gallery.jpg",
+          "caption": "Holy Fire \u2014 reference screenshot",
+          "width": 615,
+          "height": 343,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "jackpot",
+      "name": "Jackpot",
+      "category": "Player vs. Player",
+      "acquisition": " Rival II: The War Within Season 2 ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Jackpot",
+      "images": [
+        {
+          "src": "assets/images/jackpot.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Jackpot.jpg?f0d7fb",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Jackpot.jpg",
+          "caption": "Jackpot \u2014 reference screenshot",
+          "width": 615,
+          "height": 343,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "arcane",
+      "name": "Arcane",
+      "category": "Player vs. Player",
+      "acquisition": " Rival II: The War Within Season 3 ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Arcane",
+      "images": [
+        {
+          "src": "assets/images/arcane.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Arcane.jpg?4235cb",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Arcane.jpg",
+          "caption": "Arcane \u2014 reference screenshot",
+          "width": 615,
+          "height": 343,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "galaxy",
+      "name": "Galaxy",
+      "category": "Player vs. Player",
+      "acquisition": " Rival II: Midnight Season 1 ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Galaxy",
+      "images": [
+        {
+          "src": "assets/images/galaxy.webp",
+          "original": "https://warcraft.wiki.gg/images/Illusion_Galaxy.jpg?359684",
+          "source": "https://warcraft.wiki.gg/wiki/File:Illusion_Galaxy.jpg",
+          "caption": "Galaxy \u2014 reference screenshot",
+          "width": 615,
+          "height": 343,
+          "credit": "Warcraft Wiki contributors / Blizzard Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "venomcoil",
+      "name": "Venomcoil",
+      "category": "Player vs. Player",
+      "acquisition": " Rival II: Midnight Season 2 ",
+      "source": "https://warcraft.wiki.gg/wiki/Illusion:_Venomcoil",
+      "images": []
+    }
+  ]
+}

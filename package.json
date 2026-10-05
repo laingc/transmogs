@@ -1,0 +1,13 @@
+{
+  "name": "afterglow-wow-gallery",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline, searchable World of Warcraft weapon illusion gallery",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  }
+}

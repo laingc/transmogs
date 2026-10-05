@@ -1,0 +1,15 @@
+node_modules/
+test-results/
+playwright-report/
+research/cache/
+research/video-*.mp4
+research/video-*.mkv
+research/video-*.webm
+research/video-*.info.json
+research/video-*.part*
+research/frame-*.webp
+research/review-*.jpg
+research/contact-*.jpg
+research/search-*.json
+__pycache__/
+.DS_Store

@@ -1,0 +1,724 @@
+{
+  "Agility": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      29,
+      35
+    ]
+  },
+  "Battlemaster": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      46,
+      52
+    ]
+  },
+  "Berserking": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      63,
+      69
+    ]
+  },
+  "Blood Draining": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      80,
+      86
+    ]
+  },
+  "Crusader": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      97,
+      103
+    ]
+  },
+  "Elemental Force": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      114,
+      120
+    ]
+  },
+  "Executioner": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      131,
+      137
+    ]
+  },
+  "Fiery Weapon": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      148,
+      154
+    ]
+  },
+  "Greater Spellpower": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      165,
+      171
+    ]
+  },
+  "Jade Spirit": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      199,
+      205
+    ]
+  },
+  "Landslide": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      216,
+      222
+    ]
+  },
+  "Lifestealing": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      233,
+      239
+    ]
+  },
+  "Mending": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      250,
+      256
+    ]
+  },
+  "Mongoose": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      267,
+      273
+    ]
+  },
+  "Power Torrent": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      284,
+      290
+    ]
+  },
+  "River's Song": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      301,
+      307
+    ]
+  },
+  "Spellsurge": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      318,
+      324
+    ]
+  },
+  "Striking": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      335,
+      341
+    ]
+  },
+  "Unholy Weapon": {
+    "video": "701Q96jKJro",
+    "credit": "Jessiehealz",
+    "times": [
+      352,
+      358
+    ]
+  },
+  "Breath of Yu'lon": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      5,
+      10
+    ]
+  },
+  "Chronos": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      15,
+      20
+    ]
+  },
+  "Netherflame": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      35,
+      40
+    ]
+  },
+  "Nightmare": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      45,
+      50
+    ]
+  },
+  "Light of the Earth-Warder": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      55,
+      60
+    ]
+  },
+  "Mark of Shadowmoon": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      65,
+      70
+    ]
+  },
+  "Mark of the Bleeding Hollow": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      75,
+      80
+    ]
+  },
+  "Mark of the Frostwolf": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      85,
+      90
+    ]
+  },
+  "Mark of the Shattered Hand": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      95,
+      100
+    ]
+  },
+  "Mark of the Thunderlord": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      110,
+      115
+    ]
+  },
+  "Colossus": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      120,
+      125
+    ]
+  },
+  "Dancing Steel": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      130,
+      135
+    ]
+  },
+  "Blade Ward": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      140,
+      145
+    ]
+  },
+  "Soulfrost": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      150,
+      155
+    ]
+  },
+  "Sunfire": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      160,
+      165
+    ]
+  },
+  "Beastslayer": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      170,
+      175
+    ]
+  },
+  "Coldlight": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      180,
+      185
+    ]
+  },
+  "Deathfrost": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      190,
+      195
+    ]
+  },
+  "Rune of Razorice": {
+    "video": "QVX-Cu0-XgY",
+    "credit": "Wowhead",
+    "times": [
+      200,
+      205
+    ]
+  },
+  "Titanguard": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      48,
+      49
+    ]
+  },
+  "Mark of Blackrock": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      565,
+      571
+    ]
+  },
+  "Winter's Grasp": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      343,
+      349
+    ]
+  },
+  "Flames of Ragnaros": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      355,
+      361
+    ]
+  },
+  "Unbreakable Resolve": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      701,
+      702
+    ]
+  },
+  "Sinwrath": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      706,
+      707
+    ]
+  },
+  "Transcendent Soul": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      711,
+      712
+    ]
+  },
+  "Wild Soul": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      716,
+      717
+    ]
+  },
+  "Undying Spirit": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      771,
+      772
+    ]
+  },
+  "Sinsedge": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      776,
+      777
+    ]
+  },
+  "Devoted Spirit": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      781,
+      782
+    ]
+  },
+  "Summer Sun Blossom": {
+    "video": "wStbaCgT4wA",
+    "credit": "iamShorteh",
+    "times": [
+      15,
+      25,
+      35
+    ]
+  },
+  "Venomcoil": {
+    "video": "G1-5TX-QCWc",
+    "credit": "iamShorteh",
+    "times": [
+      5,
+      25,
+      65
+    ]
+  },
+  "Icy Chill": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      117,
+      118
+    ]
+  },
+  "Heartsong": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      125,
+      126
+    ]
+  },
+  "Windwalk": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      120,
+      123
+    ]
+  },
+  "Avalanche": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      159,
+      162
+    ]
+  },
+  "Elemental Slayer": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      165,
+      166
+    ]
+  },
+  "Windsong": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      130,
+      133
+    ]
+  },
+  "Primal Air": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      247,
+      253
+    ]
+  },
+  "Primal Frost": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      256,
+      259
+    ]
+  },
+  "Primal Fire": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      260,
+      261
+    ]
+  },
+  "Primal Earth": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      262,
+      264
+    ]
+  },
+  "Primal Mastery": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      265,
+      267
+    ]
+  },
+  "Hunt's Favor": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      783,
+      787
+    ]
+  },
+  "Void Edge": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      788,
+      791
+    ]
+  },
+  "Cosmic Flow": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      852,
+      853
+    ]
+  },
+  "Dreadflame": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      857,
+      858
+    ]
+  },
+  "Unchained Fury": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      862,
+      863
+    ]
+  },
+  "Primal Storm": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      868,
+      870
+    ]
+  },
+  "Verdant Crush": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      882,
+      883
+    ]
+  },
+  "Bronze Infinite": {
+    "video": "hZCoWvXPi_4",
+    "credit": "Shjami",
+    "times": [
+      888,
+      893
+    ]
+  },
+  "Holy Fire": {
+    "video": "6j4WXErrPxM",
+    "credit": "Kinrael",
+    "times": [
+      2,
+      6
+    ]
+  },
+  "Galaxy": {
+    "video": "-qwc-FXi_xE",
+    "credit": "Kinrael",
+    "times": [
+      2,
+      6
+    ]
+  },
+  "Arcane": {
+    "video": "WVI6SfG6rR8",
+    "credit": "CMiffxLTD",
+    "times": [
+      25,
+      55
+    ]
+  },
+  "Jackpot": {
+    "video": "PmrzGU2o00Q",
+    "credit": "CMiffxLTD",
+    "times": [
+      120,
+      150
+    ]
+  },
+  "Felshatter": {
+    "video": "lX8VChQ2tz8",
+    "credit": "Thraun Gaming",
+    "times": [
+      175,
+      190
+    ]
+  },
+  "Stinging Sands": {
+    "video": "oAf2guuKILU",
+    "credit": "Wowhead",
+    "times": [
+      5,
+      15
+    ]
+  },
+  "Wraithchill": {
+    "video": "C-qgVOES0kA",
+    "credit": "Axiom",
+    "times": [
+      5,
+      15
+    ]
+  },
+  "Shadow Flame": {
+    "video": "5sacxh16Zf0",
+    "credit": "Enrage",
+    "times": [
+      4,
+      8
+    ]
+  },
+  "Flametongue": {
+    "video": "hut3BVI0Xsw",
+    "credit": "Morncreek",
+    "times": [
+      5,
+      11
+    ]
+  },
+  "Frostbrand": {
+    "video": "hut3BVI0Xsw",
+    "credit": "Morncreek",
+    "times": [
+      17,
+      23
+    ]
+  },
+  "Rockbiter": {
+    "video": "hut3BVI0Xsw",
+    "credit": "Morncreek",
+    "times": [
+      32,
+      41
+    ]
+  },
+  "Earthliving": {
+    "video": "Cu1nj8Usgj8",
+    "credit": "AH SeanR (AH SeanR)",
+    "times": [
+      180,
+      190
+    ]
+  },
+  "Poisoned": {
+    "video": "QuPe4WQIqbA",
+    "credit": "AH SeanR (AH SeanR)",
+    "times": [
+      265,
+      270
+    ]
+  },
+  "Windfury": {
+    "video": "ApuzL3KyAQ0",
+    "credit": "AH SeanR (AH SeanR)",
+    "times": [
+      181,
+      188
+    ]
+  },
+  "Sha Corruption": {
+    "video": "AzopClLglBY",
+    "credit": "Ooshraxa",
+    "times": [
+      3,
+      11
+    ]
+  },
+  "Glorious Tyranny": {
+    "video": "KygfyRaCEIA",
+    "credit": "MMO-Champion",
+    "times": [
+      5,
+      25
+    ]
+  },
+  "Primal Victory": {
+    "video": "UJk-9aXvYQo",
+    "credit": "JUNA Plays",
+    "times": [
+      450,
+      465
+    ]
+  },
+  "Demonic Tyranny": {
+    "video": "1aaFPLCTAYw",
+    "credit": "Wowhead",
+    "times": [
+      3,
+      11
+    ]
+  },
+  "Sinful Flame": {
+    "video": "j40XeE9VywQ",
+    "credit": "Fluxurion",
+    "times": [
+      22,
+      23
+    ]
+  },
+  "Eternal Flux": {
+    "video": "mIWQPSe4Ss8",
+    "credit": "Goldenshacal",
+    "times": [
+      5,
+      35
+    ]
+  }
+}

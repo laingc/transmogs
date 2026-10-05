@@ -1,0 +1,91 @@
+# Name | colours (first is primary) | effects (first is primary) | visual strength
+Agility | green | glow | subtle
+Beastslayer | red | glow | subtle
+Crusader | white,silver | glow,holy | moderate
+Lifestealing | purple | glow,shadow | subtle
+Striking | blue,white | glow | subtle
+Titanguard | gold,yellow | glow | moderate
+Coldlight | blue,cyan | glow,frost | bold
+Fiery Weapon | orange,yellow | fire,glow | bold
+Unholy Weapon | green,black | skulls,orbiting,unholy | moderate
+Battlemaster | white,cyan | mist,glow | subtle
+Netherflame | purple | glow,arcane | moderate
+Spellsurge | blue,white | sparkles,arcane | subtle
+Berserking | red | glow,blood | moderate
+Greater Spellpower | blue,cyan | flame,glow,arcane | bold
+Icy Chill | white,blue | glow,frost | moderate
+Heartsong | blue,gold | glow,sparkles | moderate
+Light of the Earth-Warder | gold,yellow | glow,holy | bold
+Windwalk | purple,white | wind,mist | moderate
+Avalanche | white,cyan | frost,snowflakes,mist | bold
+Elemental Slayer | orange,purple,green | elemental,leaves,fire | bold
+Landslide | gold,brown | earth,rocks,dust | bold
+Breath of Yu'lon | green | glow,nature | moderate
+Elemental Force | orange,purple | elemental,glow | moderate
+Windsong | blue,gold | wind,glow | subtle
+Dancing Steel | blue,white | wind,sparkles | moderate
+River's Song | blue,white | water,wind | moderate
+Mark of the Frostwolf | blue,white | frost,glow | moderate
+Mark of the Thunderlord | cyan,green,white | lightning | bold
+Primal Air | white,green | wind,leaves,nature | moderate
+Primal Earth | brown | earth,rocks,dust | moderate
+Primal Fire | orange,red,yellow | fire,embers,coating | bold
+Primal Frost | blue,white | frost,snowflakes,coating | moderate
+Primal Mastery | orange,blue,brown | elemental,orbiting,fire,frost | bold
+Mongoose | cyan,green,white | lightning | bold
+Soulfrost | blue,black | shadow,frost,mist | subtle
+Sunfire | gold,orange,white | fire,holy,glow | moderate
+Blade Ward | blue,cyan | lightning,glow | moderate
+Blood Draining | red,orange | blood,mist | bold
+Power Torrent | orange,purple | fire,arcane,colour-shifting | bold
+Colossus | blue,cyan | lightning,glow | bold
+Jade Spirit | green,cyan | nature,mist,glow | moderate
+Mark of Blackrock | blue,black,purple | shards,shadow | moderate
+Mark of Shadowmoon | purple | shadow,mist | bold
+Mark of the Bleeding Hollow | orange,red | fire,embers | moderate
+Mark of the Shattered Hand | orange,gold | glow,embers | moderate
+Chronos | purple,blue | arcane,swirling,mist | bold
+Nightmare | red,black | corruption,smoke,shadow | bold
+Void Edge | purple,blue | void,coating | moderate
+Executioner | cyan,white | shards,sparkles | bold
+Mending | green,gold | leaves,nature | bold
+Devoted Spirit | cyan | coating,spirit | subtle
+Transcendent Soul | purple,cyan | spirit,mist,coating | moderate
+Undying Spirit | black,green | coating,unholy | subtle
+Unbreakable Resolve | green,black | unholy,spirit,coating | moderate
+Hunt's Favor | blue,silver | coating,nature | subtle
+Wild Soul | blue,cyan | nature,spirit,coating | bold
+Sinsedge | red | coating,blood | subtle
+Sinwrath | red,black | blood,mist,coating | bold
+Rune of Razorice | blue,white | frost,runes,mist | bold
+Poisoned | green | poison,glow | subtle
+Earthliving | green | nature,orbiting,glow | moderate
+Flametongue | orange,yellow | fire,orbiting | bold
+Frostbrand | blue,white | frost,orbiting | bold
+Rockbiter | gold,white,brown | earth,rocks,orbiting,sparkles | bold
+Windfury | white,blue | wind,orbiting,glow | bold
+Deathfrost | white,blue | frost,glow,sparkles | bold
+Summer Sun Blossom | gold,orange,blue | flowers,orbiting,fire | bold
+Flames of Ragnaros | orange,red,yellow | fire,embers | bold
+Winter's Grasp | blue,white | frost,mist | bold
+Sha Corruption | black,white | corruption,smoke,shadow | bold
+Felshatter | green,black | fel,shards,orbiting | bold
+Stinging Sands | gold,brown | sand,sparkles,dust | moderate
+Wraithchill | cyan,white | frost,spirit,coating | bold
+Glorious Tyranny | red,black | blood,smoke,glow | bold
+Primal Victory | blue,purple,black | smoke,shadow,glow | bold
+Demonic Tyranny | green,black | fel,smoke,glow | bold
+Dreadflame | purple,blue | fire,shadow | bold
+Sinful Flame | red,black | shadow,smoke,coating | moderate
+Unchained Fury | purple,black | shadow,smoke,coating | moderate
+Cosmic Flow | gold,white | cosmic,runes,sparkles | bold
+Eternal Flux | gold,cyan | cosmic,runes,colour-shifting | bold
+Primal Storm | cyan,white | lightning,wind,swirling | bold
+Shadow Flame | purple,orange,red | fire,shadow | bold
+Verdant Crush | green,cyan | nature,sparkles | bold
+Bronze Infinite | gold,orange,brown | sand,swirling,sparkles | bold
+Holy Fire | gold,yellow | holy,fire,sparkles | bold
+Jackpot | gold,orange | sparkles,embers | bold
+Arcane | purple,pink,blue | arcane,runes,sparkles | bold
+Galaxy | blue,purple,pink | cosmic,lightning,stars,orbiting | bold
+Venomcoil | green | poison,swirling,orbiting | bold

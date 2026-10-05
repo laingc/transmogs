@@ -1,0 +1,1820 @@
+{
+  "Agility": [
+    {
+      "src": "assets/images/agility-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=29s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=29s",
+      "caption": "Animation frame at 0:29",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/agility-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=35s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=35s",
+      "caption": "Animation frame at 0:35",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Battlemaster": [
+    {
+      "src": "assets/images/battlemaster-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=46s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=46s",
+      "caption": "Animation frame at 0:46",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/battlemaster-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=52s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=52s",
+      "caption": "Animation frame at 0:52",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Berserking": [
+    {
+      "src": "assets/images/berserking-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=63s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=63s",
+      "caption": "Animation frame at 1:03",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/berserking-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=69s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=69s",
+      "caption": "Animation frame at 1:09",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Blood Draining": [
+    {
+      "src": "assets/images/blood-draining-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=80s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=80s",
+      "caption": "Animation frame at 1:20",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/blood-draining-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=86s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=86s",
+      "caption": "Animation frame at 1:26",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Crusader": [
+    {
+      "src": "assets/images/crusader-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=97s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=97s",
+      "caption": "Animation frame at 1:37",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/crusader-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=103s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=103s",
+      "caption": "Animation frame at 1:43",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Elemental Force": [
+    {
+      "src": "assets/images/elemental-force-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=114s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=114s",
+      "caption": "Animation frame at 1:54",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/elemental-force-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=120s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=120s",
+      "caption": "Animation frame at 2:00",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Executioner": [
+    {
+      "src": "assets/images/executioner-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=131s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=131s",
+      "caption": "Animation frame at 2:11",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/executioner-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=137s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=137s",
+      "caption": "Animation frame at 2:17",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Fiery Weapon": [
+    {
+      "src": "assets/images/fiery-weapon-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=148s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=148s",
+      "caption": "Animation frame at 2:28",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/fiery-weapon-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=154s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=154s",
+      "caption": "Animation frame at 2:34",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Greater Spellpower": [
+    {
+      "src": "assets/images/greater-spellpower-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=165s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=165s",
+      "caption": "Animation frame at 2:45",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/greater-spellpower-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=171s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=171s",
+      "caption": "Animation frame at 2:51",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Jade Spirit": [
+    {
+      "src": "assets/images/jade-spirit-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=199s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=199s",
+      "caption": "Animation frame at 3:19",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/jade-spirit-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=205s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=205s",
+      "caption": "Animation frame at 3:25",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Landslide": [
+    {
+      "src": "assets/images/landslide-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=216s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=216s",
+      "caption": "Animation frame at 3:36",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/landslide-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=222s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=222s",
+      "caption": "Animation frame at 3:42",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Lifestealing": [
+    {
+      "src": "assets/images/lifestealing-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=233s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=233s",
+      "caption": "Animation frame at 3:53",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/lifestealing-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=239s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=239s",
+      "caption": "Animation frame at 3:59",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Mending": [
+    {
+      "src": "assets/images/mending-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=250s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=250s",
+      "caption": "Animation frame at 4:10",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/mending-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=256s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=256s",
+      "caption": "Animation frame at 4:16",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Mongoose": [
+    {
+      "src": "assets/images/mongoose-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=267s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=267s",
+      "caption": "Animation frame at 4:27",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/mongoose-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=273s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=273s",
+      "caption": "Animation frame at 4:33",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Power Torrent": [
+    {
+      "src": "assets/images/power-torrent-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=284s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=284s",
+      "caption": "Animation frame at 4:44",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/power-torrent-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=290s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=290s",
+      "caption": "Animation frame at 4:50",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "River's Song": [
+    {
+      "src": "assets/images/river-s-song-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=301s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=301s",
+      "caption": "Animation frame at 5:01",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/river-s-song-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=307s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=307s",
+      "caption": "Animation frame at 5:07",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Spellsurge": [
+    {
+      "src": "assets/images/spellsurge-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=318s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=318s",
+      "caption": "Animation frame at 5:18",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/spellsurge-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=324s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=324s",
+      "caption": "Animation frame at 5:24",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Striking": [
+    {
+      "src": "assets/images/striking-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=335s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=335s",
+      "caption": "Animation frame at 5:35",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/striking-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=341s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=341s",
+      "caption": "Animation frame at 5:41",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Unholy Weapon": [
+    {
+      "src": "assets/images/unholy-weapon-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=352s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=352s",
+      "caption": "Animation frame at 5:52",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/unholy-weapon-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=701Q96jKJro&t=358s",
+      "source": "https://www.youtube.com/watch?v=701Q96jKJro&t=358s",
+      "caption": "Animation frame at 5:58",
+      "credit": "Jessiehealz / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Breath of Yu'lon": [
+    {
+      "src": "assets/images/breath-of-yu-lon-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=5s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=5s",
+      "caption": "Animation frame at 0:05",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/breath-of-yu-lon-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=10s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=10s",
+      "caption": "Animation frame at 0:10",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Chronos": [
+    {
+      "src": "assets/images/chronos-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=15s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=15s",
+      "caption": "Animation frame at 0:15",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/chronos-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=20s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=20s",
+      "caption": "Animation frame at 0:20",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Netherflame": [
+    {
+      "src": "assets/images/netherflame-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=35s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=35s",
+      "caption": "Animation frame at 0:35",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/netherflame-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=40s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=40s",
+      "caption": "Animation frame at 0:40",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Nightmare": [
+    {
+      "src": "assets/images/nightmare-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=45s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=45s",
+      "caption": "Animation frame at 0:45",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/nightmare-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=50s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=50s",
+      "caption": "Animation frame at 0:50",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Light of the Earth-Warder": [
+    {
+      "src": "assets/images/light-of-the-earth-warder-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=55s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=55s",
+      "caption": "Animation frame at 0:55",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/light-of-the-earth-warder-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=60s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=60s",
+      "caption": "Animation frame at 1:00",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Mark of Shadowmoon": [
+    {
+      "src": "assets/images/mark-of-shadowmoon-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=65s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=65s",
+      "caption": "Animation frame at 1:05",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/mark-of-shadowmoon-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=70s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=70s",
+      "caption": "Animation frame at 1:10",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Mark of the Bleeding Hollow": [
+    {
+      "src": "assets/images/mark-of-the-bleeding-hollow-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=75s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=75s",
+      "caption": "Animation frame at 1:15",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/mark-of-the-bleeding-hollow-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=80s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=80s",
+      "caption": "Animation frame at 1:20",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Mark of the Frostwolf": [
+    {
+      "src": "assets/images/mark-of-the-frostwolf-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=85s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=85s",
+      "caption": "Animation frame at 1:25",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/mark-of-the-frostwolf-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=90s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=90s",
+      "caption": "Animation frame at 1:30",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Mark of the Shattered Hand": [
+    {
+      "src": "assets/images/mark-of-the-shattered-hand-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=95s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=95s",
+      "caption": "Animation frame at 1:35",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/mark-of-the-shattered-hand-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=100s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=100s",
+      "caption": "Animation frame at 1:40",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Mark of the Thunderlord": [
+    {
+      "src": "assets/images/mark-of-the-thunderlord-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=110s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=110s",
+      "caption": "Animation frame at 1:50",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/mark-of-the-thunderlord-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=115s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=115s",
+      "caption": "Animation frame at 1:55",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Colossus": [
+    {
+      "src": "assets/images/colossus-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=120s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=120s",
+      "caption": "Animation frame at 2:00",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/colossus-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=125s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=125s",
+      "caption": "Animation frame at 2:05",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Dancing Steel": [
+    {
+      "src": "assets/images/dancing-steel-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=130s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=130s",
+      "caption": "Animation frame at 2:10",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/dancing-steel-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=135s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=135s",
+      "caption": "Animation frame at 2:15",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Blade Ward": [
+    {
+      "src": "assets/images/blade-ward-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=140s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=140s",
+      "caption": "Animation frame at 2:20",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/blade-ward-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=145s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=145s",
+      "caption": "Animation frame at 2:25",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Soulfrost": [
+    {
+      "src": "assets/images/soulfrost-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=150s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=150s",
+      "caption": "Animation frame at 2:30",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/soulfrost-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=155s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=155s",
+      "caption": "Animation frame at 2:35",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Sunfire": [
+    {
+      "src": "assets/images/sunfire-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=160s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=160s",
+      "caption": "Animation frame at 2:40",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/sunfire-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=165s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=165s",
+      "caption": "Animation frame at 2:45",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Beastslayer": [
+    {
+      "src": "assets/images/beastslayer-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=170s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=170s",
+      "caption": "Animation frame at 2:50",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/beastslayer-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=175s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=175s",
+      "caption": "Animation frame at 2:55",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Coldlight": [
+    {
+      "src": "assets/images/coldlight-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=180s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=180s",
+      "caption": "Animation frame at 3:00",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/coldlight-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=185s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=185s",
+      "caption": "Animation frame at 3:05",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Deathfrost": [
+    {
+      "src": "assets/images/deathfrost-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=190s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=190s",
+      "caption": "Animation frame at 3:10",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/deathfrost-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=195s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=195s",
+      "caption": "Animation frame at 3:15",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Rune of Razorice": [
+    {
+      "src": "assets/images/rune-of-razorice-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=200s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=200s",
+      "caption": "Animation frame at 3:20",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/rune-of-razorice-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=205s",
+      "source": "https://www.youtube.com/watch?v=QVX-Cu0-XgY&t=205s",
+      "caption": "Animation frame at 3:25",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Titanguard": [
+    {
+      "src": "assets/images/titanguard-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=48s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=48s",
+      "caption": "Animation frame at 0:48",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/titanguard-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=49s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=49s",
+      "caption": "Animation frame at 0:49",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Mark of Blackrock": [
+    {
+      "src": "assets/images/mark-of-blackrock-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=565s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=565s",
+      "caption": "Animation frame at 9:25",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/mark-of-blackrock-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=571s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=571s",
+      "caption": "Animation frame at 9:31",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Winter's Grasp": [
+    {
+      "src": "assets/images/winter-s-grasp-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=343s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=343s",
+      "caption": "Animation frame at 5:43",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/winter-s-grasp-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=349s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=349s",
+      "caption": "Animation frame at 5:49",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Flames of Ragnaros": [
+    {
+      "src": "assets/images/flames-of-ragnaros-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=355s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=355s",
+      "caption": "Animation frame at 5:55",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/flames-of-ragnaros-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=361s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=361s",
+      "caption": "Animation frame at 6:01",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Unbreakable Resolve": [
+    {
+      "src": "assets/images/unbreakable-resolve-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=701s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=701s",
+      "caption": "Animation frame at 11:41",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/unbreakable-resolve-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=702s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=702s",
+      "caption": "Animation frame at 11:42",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Sinwrath": [
+    {
+      "src": "assets/images/sinwrath-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=706s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=706s",
+      "caption": "Animation frame at 11:46",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/sinwrath-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=707s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=707s",
+      "caption": "Animation frame at 11:47",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Transcendent Soul": [
+    {
+      "src": "assets/images/transcendent-soul-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=711s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=711s",
+      "caption": "Animation frame at 11:51",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/transcendent-soul-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=712s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=712s",
+      "caption": "Animation frame at 11:52",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Wild Soul": [
+    {
+      "src": "assets/images/wild-soul-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=716s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=716s",
+      "caption": "Animation frame at 11:56",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/wild-soul-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=717s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=717s",
+      "caption": "Animation frame at 11:57",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Undying Spirit": [
+    {
+      "src": "assets/images/undying-spirit-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=771s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=771s",
+      "caption": "Animation frame at 12:51",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/undying-spirit-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=772s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=772s",
+      "caption": "Animation frame at 12:52",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Sinsedge": [
+    {
+      "src": "assets/images/sinsedge-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=776s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=776s",
+      "caption": "Animation frame at 12:56",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/sinsedge-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=777s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=777s",
+      "caption": "Animation frame at 12:57",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Devoted Spirit": [
+    {
+      "src": "assets/images/devoted-spirit-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=781s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=781s",
+      "caption": "Animation frame at 13:01",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/devoted-spirit-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=782s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=782s",
+      "caption": "Animation frame at 13:02",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Summer Sun Blossom": [
+    {
+      "src": "assets/images/summer-sun-blossom-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=wStbaCgT4wA&t=15s",
+      "source": "https://www.youtube.com/watch?v=wStbaCgT4wA&t=15s",
+      "caption": "Animation frame at 0:15",
+      "credit": "iamShorteh / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/summer-sun-blossom-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=wStbaCgT4wA&t=25s",
+      "source": "https://www.youtube.com/watch?v=wStbaCgT4wA&t=25s",
+      "caption": "Animation frame at 0:25",
+      "credit": "iamShorteh / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/summer-sun-blossom-video-3.webp",
+      "original": "https://www.youtube.com/watch?v=wStbaCgT4wA&t=35s",
+      "source": "https://www.youtube.com/watch?v=wStbaCgT4wA&t=35s",
+      "caption": "Animation frame at 0:35",
+      "credit": "iamShorteh / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Venomcoil": [
+    {
+      "src": "assets/images/venomcoil-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=G1-5TX-QCWc&t=5s",
+      "source": "https://www.youtube.com/watch?v=G1-5TX-QCWc&t=5s",
+      "caption": "Animation frame at 0:05",
+      "credit": "iamShorteh / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/venomcoil-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=G1-5TX-QCWc&t=25s",
+      "source": "https://www.youtube.com/watch?v=G1-5TX-QCWc&t=25s",
+      "caption": "Animation frame at 0:25",
+      "credit": "iamShorteh / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/venomcoil-video-3.webp",
+      "original": "https://www.youtube.com/watch?v=G1-5TX-QCWc&t=65s",
+      "source": "https://www.youtube.com/watch?v=G1-5TX-QCWc&t=65s",
+      "caption": "Animation frame at 1:05",
+      "credit": "iamShorteh / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Icy Chill": [
+    {
+      "src": "assets/images/icy-chill-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=117s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=117s",
+      "caption": "Animation frame at 1:57",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/icy-chill-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=118s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=118s",
+      "caption": "Animation frame at 1:58",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Heartsong": [
+    {
+      "src": "assets/images/heartsong-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=125s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=125s",
+      "caption": "Animation frame at 2:05",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/heartsong-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=126s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=126s",
+      "caption": "Animation frame at 2:06",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Windwalk": [
+    {
+      "src": "assets/images/windwalk-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=120s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=120s",
+      "caption": "Animation frame at 2:00",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/windwalk-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=123s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=123s",
+      "caption": "Animation frame at 2:03",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Avalanche": [
+    {
+      "src": "assets/images/avalanche-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=159s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=159s",
+      "caption": "Animation frame at 2:39",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/avalanche-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=162s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=162s",
+      "caption": "Animation frame at 2:42",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Elemental Slayer": [
+    {
+      "src": "assets/images/elemental-slayer-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=165s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=165s",
+      "caption": "Animation frame at 2:45",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/elemental-slayer-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=166s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=166s",
+      "caption": "Animation frame at 2:46",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Windsong": [
+    {
+      "src": "assets/images/windsong-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=130s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=130s",
+      "caption": "Animation frame at 2:10",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/windsong-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=133s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=133s",
+      "caption": "Animation frame at 2:13",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Primal Air": [
+    {
+      "src": "assets/images/primal-air-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=247s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=247s",
+      "caption": "Animation frame at 4:07",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/primal-air-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=253s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=253s",
+      "caption": "Animation frame at 4:13",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Primal Frost": [
+    {
+      "src": "assets/images/primal-frost-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=256s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=256s",
+      "caption": "Animation frame at 4:16",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/primal-frost-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=259s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=259s",
+      "caption": "Animation frame at 4:19",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Primal Fire": [
+    {
+      "src": "assets/images/primal-fire-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=260s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=260s",
+      "caption": "Animation frame at 4:20",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/primal-fire-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=261s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=261s",
+      "caption": "Animation frame at 4:21",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Primal Earth": [
+    {
+      "src": "assets/images/primal-earth-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=262s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=262s",
+      "caption": "Animation frame at 4:22",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/primal-earth-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=264s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=264s",
+      "caption": "Animation frame at 4:24",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Primal Mastery": [
+    {
+      "src": "assets/images/primal-mastery-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=265s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=265s",
+      "caption": "Animation frame at 4:25",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/primal-mastery-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=267s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=267s",
+      "caption": "Animation frame at 4:27",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Hunt's Favor": [
+    {
+      "src": "assets/images/hunt-s-favor-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=783s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=783s",
+      "caption": "Animation frame at 13:03",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/hunt-s-favor-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=787s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=787s",
+      "caption": "Animation frame at 13:07",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Void Edge": [
+    {
+      "src": "assets/images/void-edge-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=788s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=788s",
+      "caption": "Animation frame at 13:08",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/void-edge-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=791s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=791s",
+      "caption": "Animation frame at 13:11",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Cosmic Flow": [
+    {
+      "src": "assets/images/cosmic-flow-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=852s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=852s",
+      "caption": "Animation frame at 14:12",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/cosmic-flow-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=853s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=853s",
+      "caption": "Animation frame at 14:13",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Dreadflame": [
+    {
+      "src": "assets/images/dreadflame-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=857s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=857s",
+      "caption": "Animation frame at 14:17",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/dreadflame-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=858s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=858s",
+      "caption": "Animation frame at 14:18",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Unchained Fury": [
+    {
+      "src": "assets/images/unchained-fury-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=862s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=862s",
+      "caption": "Animation frame at 14:22",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/unchained-fury-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=863s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=863s",
+      "caption": "Animation frame at 14:23",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Primal Storm": [
+    {
+      "src": "assets/images/primal-storm-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=868s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=868s",
+      "caption": "Animation frame at 14:28",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/primal-storm-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=870s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=870s",
+      "caption": "Animation frame at 14:30",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Verdant Crush": [
+    {
+      "src": "assets/images/verdant-crush-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=882s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=882s",
+      "caption": "Animation frame at 14:42",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/verdant-crush-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=883s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=883s",
+      "caption": "Animation frame at 14:43",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Bronze Infinite": [
+    {
+      "src": "assets/images/bronze-infinite-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=888s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=888s",
+      "caption": "Animation frame at 14:48",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/bronze-infinite-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=893s",
+      "source": "https://www.youtube.com/watch?v=hZCoWvXPi_4&t=893s",
+      "caption": "Animation frame at 14:53",
+      "credit": "Shjami / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Holy Fire": [
+    {
+      "src": "assets/images/holy-fire-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=6j4WXErrPxM&t=2s",
+      "source": "https://www.youtube.com/watch?v=6j4WXErrPxM&t=2s",
+      "caption": "Animation frame at 0:02",
+      "credit": "Kinrael / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/holy-fire-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=6j4WXErrPxM&t=6s",
+      "source": "https://www.youtube.com/watch?v=6j4WXErrPxM&t=6s",
+      "caption": "Animation frame at 0:06",
+      "credit": "Kinrael / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Galaxy": [
+    {
+      "src": "assets/images/galaxy-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=-qwc-FXi_xE&t=2s",
+      "source": "https://www.youtube.com/watch?v=-qwc-FXi_xE&t=2s",
+      "caption": "Animation frame at 0:02",
+      "credit": "Kinrael / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/galaxy-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=-qwc-FXi_xE&t=6s",
+      "source": "https://www.youtube.com/watch?v=-qwc-FXi_xE&t=6s",
+      "caption": "Animation frame at 0:06",
+      "credit": "Kinrael / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Arcane": [
+    {
+      "src": "assets/images/arcane-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=WVI6SfG6rR8&t=25s",
+      "source": "https://www.youtube.com/watch?v=WVI6SfG6rR8&t=25s",
+      "caption": "Animation frame at 0:25",
+      "credit": "CMiffxLTD / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/arcane-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=WVI6SfG6rR8&t=55s",
+      "source": "https://www.youtube.com/watch?v=WVI6SfG6rR8&t=55s",
+      "caption": "Animation frame at 0:55",
+      "credit": "CMiffxLTD / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Jackpot": [
+    {
+      "src": "assets/images/jackpot-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=PmrzGU2o00Q&t=120s",
+      "source": "https://www.youtube.com/watch?v=PmrzGU2o00Q&t=120s",
+      "caption": "Animation frame at 2:00",
+      "credit": "CMiffxLTD / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/jackpot-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=PmrzGU2o00Q&t=150s",
+      "source": "https://www.youtube.com/watch?v=PmrzGU2o00Q&t=150s",
+      "caption": "Animation frame at 2:30",
+      "credit": "CMiffxLTD / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Felshatter": [
+    {
+      "src": "assets/images/felshatter-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=lX8VChQ2tz8&t=175s",
+      "source": "https://www.youtube.com/watch?v=lX8VChQ2tz8&t=175s",
+      "caption": "Animation frame at 2:55",
+      "credit": "Thraun Gaming / Blizzard Entertainment",
+      "width": 1152,
+      "height": 720
+    },
+    {
+      "src": "assets/images/felshatter-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=lX8VChQ2tz8&t=190s",
+      "source": "https://www.youtube.com/watch?v=lX8VChQ2tz8&t=190s",
+      "caption": "Animation frame at 3:10",
+      "credit": "Thraun Gaming / Blizzard Entertainment",
+      "width": 1152,
+      "height": 720
+    }
+  ],
+  "Stinging Sands": [
+    {
+      "src": "assets/images/stinging-sands-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=oAf2guuKILU&t=5s",
+      "source": "https://www.youtube.com/watch?v=oAf2guuKILU&t=5s",
+      "caption": "Animation frame at 0:05",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/stinging-sands-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=oAf2guuKILU&t=15s",
+      "source": "https://www.youtube.com/watch?v=oAf2guuKILU&t=15s",
+      "caption": "Animation frame at 0:15",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Wraithchill": [
+    {
+      "src": "assets/images/wraithchill-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=C-qgVOES0kA&t=5s",
+      "source": "https://www.youtube.com/watch?v=C-qgVOES0kA&t=5s",
+      "caption": "Animation frame at 0:05",
+      "credit": "Axiom / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/wraithchill-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=C-qgVOES0kA&t=15s",
+      "source": "https://www.youtube.com/watch?v=C-qgVOES0kA&t=15s",
+      "caption": "Animation frame at 0:15",
+      "credit": "Axiom / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Shadow Flame": [
+    {
+      "src": "assets/images/shadow-flame-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=5sacxh16Zf0&t=4s",
+      "source": "https://www.youtube.com/watch?v=5sacxh16Zf0&t=4s",
+      "caption": "Animation frame at 0:04",
+      "credit": "Enrage / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/shadow-flame-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=5sacxh16Zf0&t=8s",
+      "source": "https://www.youtube.com/watch?v=5sacxh16Zf0&t=8s",
+      "caption": "Animation frame at 0:08",
+      "credit": "Enrage / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Flametongue": [
+    {
+      "src": "assets/images/flametongue-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hut3BVI0Xsw&t=5s",
+      "source": "https://www.youtube.com/watch?v=hut3BVI0Xsw&t=5s",
+      "caption": "Animation frame at 0:05",
+      "credit": "Morncreek / Blizzard Entertainment",
+      "width": 1248,
+      "height": 720
+    },
+    {
+      "src": "assets/images/flametongue-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hut3BVI0Xsw&t=11s",
+      "source": "https://www.youtube.com/watch?v=hut3BVI0Xsw&t=11s",
+      "caption": "Animation frame at 0:11",
+      "credit": "Morncreek / Blizzard Entertainment",
+      "width": 1248,
+      "height": 720
+    }
+  ],
+  "Frostbrand": [
+    {
+      "src": "assets/images/frostbrand-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hut3BVI0Xsw&t=17s",
+      "source": "https://www.youtube.com/watch?v=hut3BVI0Xsw&t=17s",
+      "caption": "Animation frame at 0:17",
+      "credit": "Morncreek / Blizzard Entertainment",
+      "width": 1248,
+      "height": 720
+    },
+    {
+      "src": "assets/images/frostbrand-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hut3BVI0Xsw&t=23s",
+      "source": "https://www.youtube.com/watch?v=hut3BVI0Xsw&t=23s",
+      "caption": "Animation frame at 0:23",
+      "credit": "Morncreek / Blizzard Entertainment",
+      "width": 1248,
+      "height": 720
+    }
+  ],
+  "Rockbiter": [
+    {
+      "src": "assets/images/rockbiter-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=hut3BVI0Xsw&t=32s",
+      "source": "https://www.youtube.com/watch?v=hut3BVI0Xsw&t=32s",
+      "caption": "Animation frame at 0:32",
+      "credit": "Morncreek / Blizzard Entertainment",
+      "width": 1248,
+      "height": 720
+    },
+    {
+      "src": "assets/images/rockbiter-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=hut3BVI0Xsw&t=41s",
+      "source": "https://www.youtube.com/watch?v=hut3BVI0Xsw&t=41s",
+      "caption": "Animation frame at 0:41",
+      "credit": "Morncreek / Blizzard Entertainment",
+      "width": 1248,
+      "height": 720
+    }
+  ],
+  "Earthliving": [
+    {
+      "src": "assets/images/earthliving-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=Cu1nj8Usgj8&t=180s",
+      "source": "https://www.youtube.com/watch?v=Cu1nj8Usgj8&t=180s",
+      "caption": "Animation frame at 3:00",
+      "credit": "AH SeanR (AH SeanR) / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/earthliving-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=Cu1nj8Usgj8&t=190s",
+      "source": "https://www.youtube.com/watch?v=Cu1nj8Usgj8&t=190s",
+      "caption": "Animation frame at 3:10",
+      "credit": "AH SeanR (AH SeanR) / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Poisoned": [
+    {
+      "src": "assets/images/poisoned-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=QuPe4WQIqbA&t=265s",
+      "source": "https://www.youtube.com/watch?v=QuPe4WQIqbA&t=265s",
+      "caption": "Animation frame at 4:25",
+      "credit": "AH SeanR (AH SeanR) / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/poisoned-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=QuPe4WQIqbA&t=270s",
+      "source": "https://www.youtube.com/watch?v=QuPe4WQIqbA&t=270s",
+      "caption": "Animation frame at 4:30",
+      "credit": "AH SeanR (AH SeanR) / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Windfury": [
+    {
+      "src": "assets/images/windfury-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=ApuzL3KyAQ0&t=181s",
+      "source": "https://www.youtube.com/watch?v=ApuzL3KyAQ0&t=181s",
+      "caption": "Animation frame at 3:01",
+      "credit": "AH SeanR (AH SeanR) / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/windfury-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=ApuzL3KyAQ0&t=188s",
+      "source": "https://www.youtube.com/watch?v=ApuzL3KyAQ0&t=188s",
+      "caption": "Animation frame at 3:08",
+      "credit": "AH SeanR (AH SeanR) / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Sha Corruption": [
+    {
+      "src": "assets/images/sha-corruption-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=AzopClLglBY&t=3s",
+      "source": "https://www.youtube.com/watch?v=AzopClLglBY&t=3s",
+      "caption": "Animation frame at 0:03",
+      "credit": "Ooshraxa / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/sha-corruption-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=AzopClLglBY&t=11s",
+      "source": "https://www.youtube.com/watch?v=AzopClLglBY&t=11s",
+      "caption": "Animation frame at 0:11",
+      "credit": "Ooshraxa / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Glorious Tyranny": [
+    {
+      "src": "assets/images/glorious-tyranny-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=KygfyRaCEIA&t=5s",
+      "source": "https://www.youtube.com/watch?v=KygfyRaCEIA&t=5s",
+      "caption": "Animation frame at 0:05",
+      "credit": "MMO-Champion / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/glorious-tyranny-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=KygfyRaCEIA&t=25s",
+      "source": "https://www.youtube.com/watch?v=KygfyRaCEIA&t=25s",
+      "caption": "Animation frame at 0:25",
+      "credit": "MMO-Champion / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Primal Victory": [
+    {
+      "src": "assets/images/primal-victory-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=UJk-9aXvYQo&t=450s",
+      "source": "https://www.youtube.com/watch?v=UJk-9aXvYQo&t=450s",
+      "caption": "Animation frame at 7:30",
+      "credit": "JUNA Plays / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/primal-victory-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=UJk-9aXvYQo&t=465s",
+      "source": "https://www.youtube.com/watch?v=UJk-9aXvYQo&t=465s",
+      "caption": "Animation frame at 7:45",
+      "credit": "JUNA Plays / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Demonic Tyranny": [
+    {
+      "src": "assets/images/demonic-tyranny-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=1aaFPLCTAYw&t=3s",
+      "source": "https://www.youtube.com/watch?v=1aaFPLCTAYw&t=3s",
+      "caption": "Animation frame at 0:03",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/demonic-tyranny-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=1aaFPLCTAYw&t=11s",
+      "source": "https://www.youtube.com/watch?v=1aaFPLCTAYw&t=11s",
+      "caption": "Animation frame at 0:11",
+      "credit": "Wowhead / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Sinful Flame": [
+    {
+      "src": "assets/images/sinful-flame-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=j40XeE9VywQ&t=22s",
+      "source": "https://www.youtube.com/watch?v=j40XeE9VywQ&t=22s",
+      "caption": "Animation frame at 0:22",
+      "credit": "Fluxurion / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/sinful-flame-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=j40XeE9VywQ&t=23s",
+      "source": "https://www.youtube.com/watch?v=j40XeE9VywQ&t=23s",
+      "caption": "Animation frame at 0:23",
+      "credit": "Fluxurion / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "Eternal Flux": [
+    {
+      "src": "assets/images/eternal-flux-video-1.webp",
+      "original": "https://www.youtube.com/watch?v=mIWQPSe4Ss8&t=5s",
+      "source": "https://www.youtube.com/watch?v=mIWQPSe4Ss8&t=5s",
+      "caption": "Animation frame at 0:05",
+      "credit": "Goldenshacal / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "src": "assets/images/eternal-flux-video-2.webp",
+      "original": "https://www.youtube.com/watch?v=mIWQPSe4Ss8&t=35s",
+      "source": "https://www.youtube.com/watch?v=mIWQPSe4Ss8&t=35s",
+      "caption": "Animation frame at 0:35",
+      "credit": "Goldenshacal / Blizzard Entertainment",
+      "width": 1280,
+      "height": 720
+    }
+  ]
+}
