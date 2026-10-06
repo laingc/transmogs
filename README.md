@@ -1,18 +1,10 @@
 # Afterglow: WoW weapon illusion gallery
 
-A local gallery with **90 weapon illusions**, **271 pictures**, and **68 legacy recipe references**.
+## [Open the gallery at wow-afterglow.github.io/transmogs](https://wow-afterglow.github.io/transmogs/)
 
-## Open the gallery
+A searchable World of Warcraft gallery with **90 weapon illusions**, **271 pictures**, and **68 legacy recipe references**.
 
-Open `index.html` in a modern browser. The gallery works offline without installation.
-
-For a local web address, run:
-
-```sh
-npm start
-```
-
-Then open **http://localhost:4173**. Node.js is the only server requirement.
+Find a weapon illusion by color, effect, or acquisition source. Compare pictures. Save your favorites in your browser.
 
 ## Use the gallery
 
@@ -48,6 +40,18 @@ Acquisition restrictions come from the reference list. They do not represent liv
 
 Game imagery belongs to Blizzard Entertainment. Warcraft Wiki text uses the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 This is an unofficial gallery for personal use.
+
+## Run locally
+
+Open `index.html` in a modern browser. The gallery works offline without installation.
+
+For a local web address, run:
+
+```sh
+npm start
+```
+
+Then open **http://localhost:4173**. Node.js is the only server requirement.
 
 ## Files
 
